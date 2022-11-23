@@ -1,0 +1,9 @@
+input/*
+output/*
+*.png
+*.jpeg
+*.jpg
+*.pkl
+!sample.png
+rsc/*
+*.pth
